@@ -1,6 +1,6 @@
 # HW_Week2_Day4_Objects
 
-### Exercice 2: Modeling a Run Tracker
+### Exercice 1: Modeling a Run Tracker
 
 Create an object `person` that has methods that helps
 him prepare for running a 5k.
